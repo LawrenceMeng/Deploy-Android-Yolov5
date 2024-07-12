@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Depoly</string>
+
+    <string-array name="model">
+        <item>yi=olov5s</item>
+        <item>yi=olov5n</item>
+        <item>yi=olov5m</item>
+        <item>yi=olov5s-int8</item>
+    </string-array>
 </resources>
